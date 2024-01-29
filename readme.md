@@ -1,4 +1,3 @@
-Certainly! Here's a basic README for your Stopwatch App project:
 # Stopwatch App
 
 This is a simple Stopwatch App created using HTML, CSS, and JavaScript. The app allows users to start, stop, and reset a timer, displaying elapsed time in a human-readable format.
